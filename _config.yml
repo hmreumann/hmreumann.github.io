@@ -23,8 +23,8 @@ email: hmreumann@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Algunos de mis proyectos se describen en este sitio, sientase libre de explorar
    y ponerse en contacto conmigo por cualquier inquietud.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://hmreumann.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: HMReumann
 github_username:  hmreumann
 facebook_username: hmreumann
